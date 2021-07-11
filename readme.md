@@ -5,3 +5,5 @@ Decentralized governance is crtical and core function for any DAO.
 - A DAO has at its core a product (s) and decentralized givernance for the product ecosystem.
   - What is your product?
   - What are you governing?
+- What are some compelling use cases?
+- Is there token involved? ERC20?
