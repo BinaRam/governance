@@ -11,4 +11,8 @@ Decentralized governance is crtical and core function for any DAO.
   - Limit of the supply
   - Who gets incentivized token
   - Who can buy tokens with fiat currency?
+  - Governance token
+  - Product token peddged to USD or not
+  - 3Dprinting design NFT token
 - Voting is a critical component
+
