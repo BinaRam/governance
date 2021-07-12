@@ -20,4 +20,5 @@ Decentralized governance is crtical and core function for any DAO.
 - Staking 
 - Interest bearing accounts
 - Vaults?
+- Custodial role
 
