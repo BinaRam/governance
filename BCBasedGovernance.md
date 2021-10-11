@@ -24,8 +24,12 @@ Membership management begins with the admittance of a select group of 10 manufac
   - How to manage membership expansion? Can core members refer/introduce other new members?
   - The organization decides the initial membership term. 
   - The new member becomes a voting member/core member after a vesting period?
-The consortium will be a (*closed*) membership consortium. The eligible members are manufacturers with specific basic credentials. The consortium activities are relevant and will benefit them directly. Thus it is reasonable to assume that only manufacturers (and no non-manufacturers) will join the consortium. 
+  - The consortium will be a (*closed*) membership consortium. The eligible members are manufacturers with specific basic credentials. 
+  - The consortium activities are relevant and will benefit them directly. Thus it is reasonable to assume that only manufacturers (and no non-manufacturers) will join the consortium.  
+  - Soem branding (Member of xyz) will be assiged to the member to display on their website.
+  - A benefits document will be provided
 
+The membership model is more like a American Piots association (only pilots and related-personal allowed) versus a gym membership (where anybody can join).
 ### 3. Member Engagement and Marketplace -- Giggso
 
 (Example, UK Govt online marketplace)
