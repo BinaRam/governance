@@ -1,4 +1,4 @@
-# Roadmap to Blockchain-based Governance
+o # Roadmap to Blockchain-based Governance
 
 This document discusses the steps in developing a blockchain-based governance framework for software-driven manfacturing domain.
 
@@ -62,9 +62,10 @@ Membership fees has been discussed in the **Membership management** section. Oth
 
 ## GP6: Managing Funds and liquidity
 
-  - Funds are stored in ERC20 token. Liquidity providers: membership fees and investors. 
+  - Funds are stored in Fiat currency or ERC20 tokens?. Liquidity providers: membership fees and investors. 
   - Withdrwal from liquidity
   - Management of liquidity
+  - Leveraging funds for projects benefiting members
 
 
 Notes: Constraints/rules code in the smart contract -- rules will be applied appropriately
