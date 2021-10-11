@@ -26,7 +26,8 @@ Membership management begins with the admittance of a select group of 10 manufac
   - The new member becomes a voting member/core member after a vesting period?
   - The consortium will be a (*closed*) membership consortium. The eligible members are manufacturers with specific basic credentials. 
   - The consortium activities are relevant and will benefit them directly. Thus it is reasonable to assume that only manufacturers (and no non-manufacturers) will join the consortium.  
-  - Some branding (Member of xyz) will be assiged to the member to display on their website. (A non-transferrable license that will be revoked under certain situations?)
+  - Some branding (Member of xyz) will be assiged to the member to display on their website. 
+  - A non-transferrable license will be provided that will be revoked under certain situations?
   - A document explaining emerging software-driven manufacturing and the changing roles and benfits will have to explained.
   - A benefits document will be provided.
 
