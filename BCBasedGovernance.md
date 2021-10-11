@@ -1,4 +1,4 @@
-o # Roadmap to Blockchain-based Governance
+# Roadmap to Blockchain-based Governance
 
 This document discusses the steps in developing a blockchain-based governance framework for software-driven manfacturing domain.
 
