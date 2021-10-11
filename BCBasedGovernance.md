@@ -1,13 +1,14 @@
 Roadmap to Blockchain-based Governance
 
-This document discusses the steps in developing a blockchain-based governance.
+This document discusses the steps in developing a blockchain-based governance framework for software-driven manfacturing domain.
 
 ## GP1: The Organization -- Project Diamond
 Define vision, structure, the team members, roles, responsibilities, operational details as per iCube. 
-Facilitate the formation of a corsortium of manufacturers. The number of members of the consoritum is based on the **10-300-3000 model**.
+Facilitate the formation of a corsortium of manufacturers. The number of members of the consoritum is based on the **10-300-3000 model**, 
+The oragnization will constitute executives, adminstrators, and support staff knowledgeable about the goals, vision and mission of the organization.
 
 ## GP2: The Consortium  -- Name?
-Define a consortium of participants. 
+Define a consortium of participants. The organization(In this case PD) will facilitate the formation of a consortium of manufacturers. The memebers of the consortium will engage, interact, exchange, and share their wisdom and experience to support collective decision making on proposals and ideas to promote.
 
 ### 1. Consoritum Memership
 The consortium will be a (*closed*) membership consortium. The eligible members are manufacturers with specific credentials. The consortium activities are relevant and will benefit them directly. Thus it is reasonable to assume that only manufacturers (and no non-manufacturers) will join the consortium. 
@@ -76,10 +77,10 @@ Facilitate the formation of a corsortium of manufacturers. The number of members
 Define a consortium of participants. 
 
 ### 1. Consoritum Memership
-The consortium will be a (*closed*) membership consortium. The eligible members are manufacturers with specific credentials. The consortium activities are relevant and will benefit them directly. Thus it is reasonable to assume that only manufacturers (and no non-manufacturers) will join the consortium. 
+The consortium will be a (*closed*) membership consortium. The eligible members are manufacturers with specific credentials. The consortium activities are relevant and will benefit them directly. Thus it is reasonable to assume that only manufacturers (and no non-manufacturers) will join the consortium. A forum will be setup for enable member operations.
 
 ### 2. Membership management
-Membership management begins with the admittance of a select group of 10 manufacturers as the first cohorts. 
+Membership management begins with the admittance of a select group of (10) manufacturers as the first set of cohorts. 
 
   - An **user interface** verifies their credentials (offchain) and enrolls them in the consortium. -- Credential Verification App.
   - Enrollment in the consortium requires a **decentralized identity on a blockchain** and recording this mapping between onchain identity and off-chain identity. 
@@ -87,11 +88,13 @@ Membership management begins with the admittance of a select group of 10 manufac
   - The organization (PD) decides the **rules/policies to admit, deny or expel** a member.
   - The organization decides on **levels of membership**, core members. What are the criteria for core members? What are the functions of the core members? 
   - How to manage membership expansion? Can core members refer/introduce other new members?
-  - The organization decides the initial membership term. 
+  - The organization decides the initial membership and their term. 
   - The new member becomes a voting member/core member after a vesting period?
 The consortium will be a (*closed*) membership consortium. The eligible members are manufacturers with specific basic credentials. The consortium activities are relevant and will benefit them directly. Thus it is reasonable to assume that only manufacturers (and no non-manufacturers) will join the consortium. 
 
-### 3. Member Engagement and Marketplace -- Giggso
+Note: The membership is more like a 
+
+### 3. Member Engagement and Marketplace -- Name?
 
 (Example, UK Govt online marketplace)
 Anyother?
