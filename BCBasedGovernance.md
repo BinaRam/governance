@@ -35,16 +35,27 @@ Membership management begins with the admittance of a select group of 10 manufac
 The membership model is more like an American Piots Association (only pilots and related-personal allowed) versus a gym membership (where anybody can join).
 **Need to decide how to remove a member, etc.**
 
-### 3. Member Engagement and Marketplace -- Giggso
+### 3. Member Engagement Platform   
+
+- A member engagment platform facilities the interaction among members, members with the oragnization PD, and other governance elements. 
+- This platform will host the voting framework where proposals can be plugged in, voting rules can be coded and an online voting process can be conducted, and the results announced/notified. 
+
+
+### Marketplace
 
 (Example, UK Govt online marketplace)
-
+- The Marketplace is tangible benefit for the members and is maintined by the PD organization. 
+- The merketplace will bring a new elements buyers and sellers of products to the member of the consoritum.
+- The marketplace is a coopretative to advertise the products and services offered by the members of the consortium to others (memenrs and non-consortium members).
+- It is a place where members can expect to meet suppliers for their products.
+- It is also a place where members can meet their buyers.
+- PD meets potential investors?
 
 ## Voting and Decision Making --TownHall
 
 An online or in-person town hall model is used for discussing proposals and voting on them by members. For example, take a vote among existing members whether they can admit a proposed new member. 
 
-## GP4: Voting methods
+## Voting methods
 Several voting methods will be implemented based the type of proposals:
 
   - Multiple rounds of voting
@@ -52,17 +63,18 @@ Several voting methods will be implemented based the type of proposals:
 
 How to form a committee and dissolve a committee?
 
-## GP5: Fees, incentives and penalties, rewards
+## Fees, incentives and penalties, rewards
 
 Membership fees has been discussed in the **Membership management** section. Other fees/payoffs include:
-  - Fees for some operations (e.g., Tx in the network)
+ 
+ - Fees for some operations (e.g., Tx in the network)
   - Incentives for performing some services
   - Rewards for "good" behavior - monitoring network, staying member for one year, etc.
   - Penalties for not meeting requirements, for example, upgrade hardware/software
   
 
 
-## GP6: Managing Funds and liquidity
+## Managing Funds and liquidity
 
   - Funds are stored in Fiat currency or ERC20 tokens?. Liquidity providers: membership fees and investors. 
   - Withdrwal from liquidity
