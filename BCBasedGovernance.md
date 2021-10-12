@@ -2,12 +2,12 @@
 
 This document discusses the steps in developing a blockchain-based governance framework for software-driven manfacturing domain.
 
-## GP1: The Organization -- Project Diamond
+## The Organization -- Project Diamond
 Define vision, structure, the team members, roles, responsibilities, operational details as per iCube. 
 Facilitate the formation of a corsortium of manufacturers. The number of members of the consoritum is based on the **10-300-3000 model**, 
 The oragnization will constitute executives, adminstrators, and support staff knowledgeable about the goals, vision and mission of the organization.
 
-## GP2: The Consortium  -- Name?
+## The Consortium  -- Name?
 Define a consortium of participants. The organization(In this case PD) will facilitate the formation of a consortium of manufacturers. The memebers of the consortium will engage, interact, exchange, and share their wisdom and experience to support collective decision making on proposals and ideas to promote.
 
 ### 1. Consoritum Memership
@@ -30,15 +30,17 @@ Membership management begins with the admittance of a select group of 10 manufac
   - A non-transferrable license will be provided that will be revoked under certain situations?
   - A document explaining emerging software-driven manufacturing and the changing roles and benfits will have to explained.
   - A benefits document will be provided.
-
-The membership model is more like a American Piots association (only pilots and related-personal allowed) versus a gym membership (where anybody can join).
+  - For every major communication-activity with the members, a feedback is solicited. This is expected to keep up the enagegment.
+  
+The membership model is more like an American Piots Association (only pilots and related-personal allowed) versus a gym membership (where anybody can join).
+**Need to decide how to remove a member, etc.**
 
 ### 3. Member Engagement and Marketplace -- Giggso
 
 (Example, UK Govt online marketplace)
-Anyother?
 
-## GP3: Voting and Decision Making --TownHall
+
+## Voting and Decision Making --TownHall
 
 An online or in-person town hall model is used for discussing proposals and voting on them by members. For example, take a vote among existing members whether they can admit a proposed new member. 
 
