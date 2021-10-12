@@ -41,7 +41,7 @@ The membership model is more like an American Piots Association (only pilots and
 - This platform will host the voting framework where proposals can be plugged in, voting rules can be coded and an online voting process can be conducted, and the results announced/notified. 
 
 
-### Marketplace
+### A Marketplace for all
 
 (Example, UK Govt online marketplace)
 - The Marketplace is tangible benefit for the members and is maintined by the PD organization. 
@@ -80,6 +80,13 @@ Membership fees has been discussed in the **Membership management** section. Oth
   - Withdrwal from liquidity
   - Management of liquidity
   - Leveraging funds for projects benefiting members
+
+## Managing Exceptional Situations
+
+- Collusion among members to favors themselves during a voting process. For example, splitting a larger of parts.
+- Discussing constituition, updating and ratifying it + amendments through a voting process.
+- Handling / addressing a revolt by the majority/minority (black swan event)
+- Dispute resolution through discussion and voting on blockchain
 
 
 Notes: Constraints/rules code in the smart contract -- rules will be applied appropriately
